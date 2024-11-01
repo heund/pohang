@@ -1,0 +1,296 @@
+[
+    {
+        "Frequency [Hz]": 0.0,
+        "Amplitude": 2.2321,
+        "X [mm]": -1.2768,
+        "Y [mm]": -2.0843
+    },
+    {
+        "Frequency [Hz]": 0.0386,
+        "Amplitude": -1.583,
+        "X [mm]": -4.7935,
+        "Y [mm]": -4.4933
+    },
+    {
+        "Frequency [Hz]": 0.0773,
+        "Amplitude": -1.8828,
+        "X [mm]": -4.8056,
+        "Y [mm]": -5.4051
+    },
+    {
+        "Frequency [Hz]": 0.1159,
+        "Amplitude": -2.0641,
+        "X [mm]": -5.4626,
+        "Y [mm]": -4.7911
+    },
+    {
+        "Frequency [Hz]": 0.1546,
+        "Amplitude": -2.1772,
+        "X [mm]": -5.0344,
+        "Y [mm]": -5.0309
+    },
+    {
+        "Frequency [Hz]": 0.1932,
+        "Amplitude": -2.2909,
+        "X [mm]": -4.8924,
+        "Y [mm]": -5.1822
+    },
+    {
+        "Frequency [Hz]": 0.2319,
+        "Amplitude": -2.368,
+        "X [mm]": -4.9457,
+        "Y [mm]": -4.7464
+    },
+    {
+        "Frequency [Hz]": 0.2705,
+        "Amplitude": -2.421,
+        "X [mm]": -5.3747,
+        "Y [mm]": -5.2545
+    },
+    {
+        "Frequency [Hz]": 0.3092,
+        "Amplitude": -2.471,
+        "X [mm]": -5.0391,
+        "Y [mm]": -5.0247
+    },
+    {
+        "Frequency [Hz]": 0.3478,
+        "Amplitude": -2.5267,
+        "X [mm]": -5.0573,
+        "Y [mm]": -5.223
+    },
+    {
+        "Frequency [Hz]": 0.3865,
+        "Amplitude": -2.6061,
+        "X [mm]": -4.4562,
+        "Y [mm]": -4.6534
+    },
+    {
+        "Frequency [Hz]": 0.4251,
+        "Amplitude": -2.6286,
+        "X [mm]": -4.769,
+        "Y [mm]": -4.7874
+    },
+    {
+        "Frequency [Hz]": 0.4638,
+        "Amplitude": -2.6541,
+        "X [mm]": -4.9146,
+        "Y [mm]": -4.8552
+    },
+    {
+        "Frequency [Hz]": 0.5024,
+        "Amplitude": -2.7152,
+        "X [mm]": -4.8623,
+        "Y [mm]": -4.7087
+    },
+    {
+        "Frequency [Hz]": 0.541,
+        "Amplitude": -2.7119,
+        "X [mm]": -5.0897,
+        "Y [mm]": -5.169
+    },
+    {
+        "Frequency [Hz]": 0.5797,
+        "Amplitude": -2.7178,
+        "X [mm]": -5.0483,
+        "Y [mm]": -4.8813
+    },
+    {
+        "Frequency [Hz]": 0.6183,
+        "Amplitude": -2.7797,
+        "X [mm]": -4.8679,
+        "Y [mm]": -4.4717
+    },
+    {
+        "Frequency [Hz]": 0.657,
+        "Amplitude": -2.7898,
+        "X [mm]": -4.6837,
+        "Y [mm]": -4.5801
+    },
+    {
+        "Frequency [Hz]": 0.6956,
+        "Amplitude": -2.8467,
+        "X [mm]": -4.9388,
+        "Y [mm]": -4.5044
+    },
+    {
+        "Frequency [Hz]": 0.7343,
+        "Amplitude": -2.8642,
+        "X [mm]": -4.916,
+        "Y [mm]": -4.8336
+    },
+    {
+        "Frequency [Hz]": 0.7729,
+        "Amplitude": -2.8616,
+        "X [mm]": -4.9338,
+        "Y [mm]": -5.0932
+    },
+    {
+        "Frequency [Hz]": 0.8116,
+        "Amplitude": -2.8825,
+        "X [mm]": -4.4962,
+        "Y [mm]": -5.3388
+    },
+    {
+        "Frequency [Hz]": 0.8502,
+        "Amplitude": -2.9681,
+        "X [mm]": -5.1198,
+        "Y [mm]": -4.7924
+    },
+    {
+        "Frequency [Hz]": 0.8889,
+        "Amplitude": -2.9411,
+        "X [mm]": -4.5111,
+        "Y [mm]": -4.9802
+    },
+    {
+        "Frequency [Hz]": 0.9275,
+        "Amplitude": -2.8938,
+        "X [mm]": -4.894,
+        "Y [mm]": -4.6508
+    },
+    {
+        "Frequency [Hz]": 0.9662,
+        "Amplitude": -2.9534,
+        "X [mm]": -4.234,
+        "Y [mm]": -4.4992
+    },
+    {
+        "Frequency [Hz]": 1.0048,
+        "Amplitude": -3.0016,
+        "X [mm]": -5.0123,
+        "Y [mm]": -4.6082
+    },
+    {
+        "Frequency [Hz]": 1.0435,
+        "Amplitude": -3.0037,
+        "X [mm]": -4.672,
+        "Y [mm]": -5.1138
+    },
+    {
+        "Frequency [Hz]": 1.0821,
+        "Amplitude": -3.0428,
+        "X [mm]": -4.6005,
+        "Y [mm]": -4.5474
+    },
+    {
+        "Frequency [Hz]": 1.1207,
+        "Amplitude": -3.0588,
+        "X [mm]": -4.5523,
+        "Y [mm]": -5.3803
+    },
+    {
+        "Frequency [Hz]": 1.1594,
+        "Amplitude": -3.0567,
+        "X [mm]": -4.3661,
+        "Y [mm]": -4.9034
+    },
+    {
+        "Frequency [Hz]": 1.198,
+        "Amplitude": -3.081,
+        "X [mm]": -4.997,
+        "Y [mm]": -5.4608
+    },
+    {
+        "Frequency [Hz]": 1.2367,
+        "Amplitude": -3.0793,
+        "X [mm]": -4.5561,
+        "Y [mm]": -5.1152
+    },
+    {
+        "Frequency [Hz]": 1.2753,
+        "Amplitude": -3.0598,
+        "X [mm]": -4.3008,
+        "Y [mm]": -5.1774
+    },
+    {
+        "Frequency [Hz]": 1.314,
+        "Amplitude": -3.0589,
+        "X [mm]": -4.7646,
+        "Y [mm]": -4.6375
+    },
+    {
+        "Frequency [Hz]": 1.3526,
+        "Amplitude": -3.0971,
+        "X [mm]": -4.5779,
+        "Y [mm]": -5.2427
+    },
+    {
+        "Frequency [Hz]": 1.3913,
+        "Amplitude": -3.1277,
+        "X [mm]": -4.608,
+        "Y [mm]": -4.6966
+    },
+    {
+        "Frequency [Hz]": 1.4299,
+        "Amplitude": -3.1371,
+        "X [mm]": -4.4519,
+        "Y [mm]": -4.7068
+    },
+    {
+        "Frequency [Hz]": 1.4686,
+        "Amplitude": -3.1531,
+        "X [mm]": -4.0697,
+        "Y [mm]": -4.5429
+    },
+    {
+        "Frequency [Hz]": 1.5072,
+        "Amplitude": -3.1958,
+        "X [mm]": -4.4464,
+        "Y [mm]": -4.3724
+    },
+    {
+        "Frequency [Hz]": 1.5459,
+        "Amplitude": -3.1701,
+        "X [mm]": -4.2977,
+        "Y [mm]": -4.9971
+    },
+    {
+        "Frequency [Hz]": 1.5845,
+        "Amplitude": -3.1906,
+        "X [mm]": -4.4345,
+        "Y [mm]": -4.9085
+    },
+    {
+        "Frequency [Hz]": 1.7004,
+        "Amplitude": -3.145,
+        "X [mm]": -4.3137,
+        "Y [mm]": -4.5777
+    },
+    {
+        "Frequency [Hz]": 59.9792,
+        "Amplitude": -3.1878,
+        "X [mm]": -3.2167,
+        "Y [mm]": -3.3271
+    },
+    {
+        "Frequency [Hz]": 119.9585,
+        "Amplitude": -2.7124,
+        "X [mm]": -2.3613,
+        "Y [mm]": -2.5712
+    },
+    {
+        "Frequency [Hz]": 149.3684,
+        "Amplitude": -6.3318,
+        "X [mm]": -4.9333,
+        "Y [mm]": -4.6828
+    },
+    {
+        "Frequency [Hz]": 157.832,
+        "Amplitude": -6.2359,
+        "X [mm]": -5.2916,
+        "Y [mm]": -4.6856
+    },
+    {
+        "Frequency [Hz]": 167.4936,
+        "Amplitude": -6.3751,
+        "X [mm]": -5.708,
+        "Y [mm]": -4.7337
+    },
+    {
+        "Frequency [Hz]": 186.7781,
+        "Amplitude": -6.2973,
+        "X [mm]": -5.2045,
+        "Y [mm]": -4.7912
+    }
+]
